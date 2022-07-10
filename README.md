@@ -4,6 +4,6 @@ Basic Data Mining analysis on [**Glasgow Norms**](https://link.springer.com/arti
 Specifically, the following operations were carried out:
 1. **Data Understanding** 
 2. **Data Cleaning**
-3. **Clustering**
+3. **Clustering** (k-means, hierarchical, DBSCAN)
 4. **Classification (predictions on the target variable polysemy)**
 5. **Pattern Discovery**
